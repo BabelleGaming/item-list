@@ -1,4 +1,4 @@
-{"incitems":[{"id":0,"type":0,"name":"Kleiner überfall","abr":"kleinerüberfall","karmatype":"Bad","price":900,"evtid":0,"maxevents":3},
+{"incitems":[{"id":0,"type":0,"name":"Small raid","abr":"kleinerüberfall","karmatype":"Bad","price":900,"evtid":0,"maxevents":3},
              {"id":1,"type":0,"name":"Medium raid","abr":"mittlererüberfall","karmatype":"Bad","price":1200,"evtid":1,"maxevents":2},
              {"id":2,"type":0,"name":"Big raid","abr":"großerüberfall","karmatype":"Bad","price":1800,"evtid":2,"maxevents":1},
              {"id":3,"type":0,"name":"Medium raid drop","abr":"mittlererpodüberfall","karmatype":"Bad","price":2100,"evtid":3,"maxevents":1},
